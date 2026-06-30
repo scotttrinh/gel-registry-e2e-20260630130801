@@ -1,0 +1,21 @@
+{
+  "packages": [
+    {
+      "basename": "gel-server",
+      "version": "7.0",
+      "slot": "7",
+      "tags": {},
+      "installrefs": [
+        {
+          "ref": "gel-server-7.0.tar.zst",
+          "type": "application/x-tar",
+          "encoding": "zstd",
+          "verification": {
+            "size": 174,
+            "blake2b": "db1830f2e72bcd4e3c07c8a4779c95783fb731317924f69e6298e5ca55ea953b57df924f635eb61e716a04f022870aa1f0928c4adc33989ad3e37879cec212b5"
+          }
+        }
+      ]
+    }
+  ]
+}

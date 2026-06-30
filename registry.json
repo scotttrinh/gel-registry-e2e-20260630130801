@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "indexes": [
+    {
+      "channel": "stable",
+      "platform": "aarch64-apple-darwin",
+      "url": "indexes/stable-aarch64-apple-darwin.json"
+    }
+  ]
+}
