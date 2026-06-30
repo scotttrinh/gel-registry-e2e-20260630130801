@@ -7,7 +7,7 @@
       "tags": {},
       "installrefs": [
         {
-          "ref": "gel-server-8.0.tar.zst",
+          "ref": "../gel-server-8.0.tar.zst",
           "type": "application/x-tar",
           "encoding": "zstd",
           "verification": {
